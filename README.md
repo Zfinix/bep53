@@ -15,6 +15,8 @@ and the Flutter guide for
 
 Parse and compose Magnet URI extension (BEP53) ranges.
 
+*Dart port of https://github.com/webtorrent/bep53-range*
+
 ## Usage
 
 ### parse
